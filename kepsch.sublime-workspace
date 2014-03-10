@@ -1,0 +1,1351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sch",
+				"schInfo"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"js",
+				"json_decode"
+			],
+			[
+				"mode",
+				"model"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"cl",
+				"clean"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"modi",
+				"modified_by"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"teac",
+				"teacher"
+			],
+			[
+				"tea",
+				"teacher"
+			],
+			[
+				"les",
+				"lesson"
+			],
+			[
+				"g",
+				"group_id"
+			],
+			[
+				"mod",
+				"modified_by"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"f",
+				"first_row"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"wee",
+				"week"
+			],
+			[
+				"this",
+				"this_row"
+			],
+			[
+				"sh",
+				"show"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"row",
+				"row-control"
+			],
+			[
+				"we",
+				"week"
+			],
+			[
+				"l",
+				"lessonsPerDay"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"sta",
+				"start"
+			],
+			[
+				"Gr",
+				"group"
+			],
+			[
+				"ad",
+				"admin"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"te",
+				"teachers"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"tr",
+				"teachers"
+			],
+			[
+				"t",
+				"teachers"
+			],
+			[
+				"gr",
+				"groups"
+			],
+			[
+				"spec",
+				"spec"
+			],
+			[
+				"spe",
+				"specs"
+			],
+			[
+				"teaceh",
+				"Teacher"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ini",
+				"initials"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"less",
+				"Lesson"
+			],
+			[
+				"data",
+				"dataProvider"
+			],
+			[
+				"s",
+				"specs"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"array_u",
+				"array_unique"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"c",
+				"course"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"endfor",
+				"endforeach"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ye",
+				"year"
+			],
+			[
+				"m",
+				"month"
+			],
+			[
+				"year",
+				"years"
+			],
+			[
+				"col",
+				"col-lg-2"
+			],
+			[
+				"col-",
+				"col-lg-2"
+			],
+			[
+				"scp",
+				"specs_array"
+			],
+			[
+				"sc",
+				"specs_array"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"page",
+				"pagesize"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"cre",
+				"created_by"
+			],
+			[
+				"upda",
+				"updated_time"
+			],
+			[
+				"created_",
+				"created_time"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"crea",
+				"created_by"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"pages",
+				"pages"
+			],
+			[
+				"S",
+				"Spec"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"view",
+				"view"
+			],
+			[
+				"sin",
+				"singleName"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"Jus",
+				"JustClick"
+			],
+			[
+				"jus",
+				"justclick_c"
+			],
+			[
+				"sele",
+				"select_mail"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"er",
+				"edit_member"
+			],
+			[
+				"pre",
+				"prev_name"
+			],
+			[
+				"ba",
+				"bases"
+			],
+			[
+				"tex",
+				"text_alignment"
+			],
+			[
+				"ite",
+				"item_number"
+			],
+			[
+				"item",
+				"item_name"
+			],
+			[
+				"b",
+				"business"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"app",
+				"appear_minutes"
+			],
+			[
+				"do_n",
+				"donot_hide_again"
+			],
+			[
+				"ape",
+				"appearing_content_"
+			],
+			[
+				"appe",
+				"appearing"
+			],
+			[
+				"oe",
+				"onetimeoffer"
+			],
+			[
+				"firs",
+				"first_time"
+			],
+			[
+				"one",
+				"onetimeoffer"
+			],
+			[
+				"cr",
+				"crypt_password"
+			],
+			[
+				"strin",
+				"string_to_crypt"
+			],
+			[
+				"red",
+				"redeem_"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"a",
+				"api"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"vk",
+				"vk"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"user_e",
+				"user_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "protected/config/main.php",
+			"settings":
+			{
+				"buffer_size": 5070,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/config/params.php",
+			"settings":
+			{
+				"buffer_size": 9028,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/modules/sch/controllers/SchController.php",
+			"settings":
+			{
+				"buffer_size": 2877,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/modules/sch/views/sch/history.php",
+			"settings":
+			{
+				"buffer_size": 1364,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/modules/sch/views/sch/manage.php",
+			"settings":
+			{
+				"buffer_size": 7575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/modules/sch/models/Sch.php",
+			"settings":
+			{
+				"buffer_size": 5692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/modules/lesson/controllers/LessonController.php",
+			"settings":
+			{
+				"buffer_size": 4789,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap3/dist/form.php",
+			"settings":
+			{
+				"buffer_size": 2837,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "protected/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 4673,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/flashbag/kepsch/protected/modules/group/models/Group.php",
+		"/home/flashbag/kepsch/protected/modules/sch/views/sch/group.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/_form.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/view.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/_view.php",
+		"/home/flashbag/kepsch/protected/modules/user/models/User.php",
+		"/home/flashbag/kepsch/protected/modules/sch/models/Sch.php",
+		"/home/flashbag/kepsch/protected/modules/sch/views/sch/manage.php",
+		"/home/flashbag/kepsch/protected/modules/sch/SchModule.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/admin.php",
+		"/home/flashbag/kepsch/css/custom.css",
+		"/home/flashbag/kepsch/protected/modules/aud/models/Aud.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/models/Teacher.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/index.php",
+		"/home/flashbag/kepsch/protected/modules/sch/views/sch/process.php",
+		"/home/flashbag/kepsch/protected/modules/sch/views/sch/form.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/models/Lesson.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/_form.php",
+		"/home/flashbag/kepsch/old/application/back-modules/edit/views/edit.php",
+		"/home/flashbag/kepsch/old/application/back-modules/edit/controllers/edit.php",
+		"/home/flashbag/kepsch/protected/modules/aud/controllers/AudController.php",
+		"/home/flashbag/kepsch/protected/config/params.php",
+		"/home/flashbag/kepsch/protected/components/SchComponent.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/controllers/LessonController.php",
+		"/home/flashbag/kepsch/protected/modules/sch/controllers/DefaultController.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/index.php",
+		"/home/flashbag/www/t.php",
+		"/home/flashbag/kepsch/protected/modules/aud/views/aud/_view.php",
+		"/home/flashbag/kepsch/protected/modules/aud/views/aud/_form.php",
+		"/home/flashbag/kepsch/protected/modules/aud/views/aud/index.php",
+		"/home/flashbag/kepsch/protected/modules/spec/controllers/SpecController.php",
+		"/home/flashbag/kepsch/protected/views/site/index.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/controllers/TeacherController.php",
+		"/home/flashbag/kepsch/protected/modules/group/controllers/GroupController.php",
+		"/home/flashbag/kepsch/protected/views/layouts/main.php",
+		"/home/flashbag/kepsch/protected/config/main.php",
+		"/home/flashbag/kepsch/protected/modules/spec/controllers/DefaultController.php",
+		"/home/flashbag/kepsch/protected/modules/aud/views/aud/create.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/view.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/_view.php",
+		"/home/flashbag/www/t.txt",
+		"/home/flashbag/mysql/kepsch_old.sql",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/_view.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/view.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/create.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/teachers.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/index.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/view.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/index.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/_form.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/_form.php",
+		"/home/flashbag/kepsch/protected/modules/group/GroupModule.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/admin.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/_view.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/views/teacher/create.php",
+		"/home/flashbag/kepsch/protected/modules/spec/SpecModule.php",
+		"/home/flashbag/kepsch/protected/modules/teacher/TeacherModule.php",
+		"/home/flashbag/kepsch/protected/modules/spec/models/Spec.php",
+		"/home/flashbag/kepsch/framework/gii/generators/model/templates/default/model.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/create.php",
+		"/home/flashbag/kepsch/protected/modules/lesson/views/lesson/update.php",
+		"/home/flashbag/kepsch/protected/modules/group/views/group/update.php",
+		"/home/flashbag/untitled",
+		"/home/flashbag/kepsch/protected/views/layouts/groups.php",
+		"/home/flashbag/kepsch/index.php",
+		"/home/flashbag/kepsch/protected/views/layouts/form.php",
+		"/home/flashbag/kepsch/protected/modules/user/views/default/_form.php",
+		"/home/flashbag/kepsch/protected/components/UserIdentity.php",
+		"/home/flashbag/kepsch/protected/components/WebUser.php",
+		"/home/flashbag/kepsch/protected/modules/user/controllers/DefaultController.php",
+		"/home/flashbag/kepsch/protected/modules/user/views/default/admin.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/update.php",
+		"/home/flashbag/kepsch/protected/components/BootstrapButtonDropdownColumn.php",
+		"/home/flashbag/kepsch/protected/views/layouts/column2.php",
+		"/home/flashbag/kepsch/framework/db/ar/CActiveRecord.php",
+		"/tmp/fz3temp-1/ajax-addcomment.php",
+		"/home/flashbag/kepsch/vkoauth.php",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/create.php",
+		"/home/flashbag/kepsch/protected/controllers/SiteController.php",
+		"/home/flashbag/freelance/inteb/protected/config/main.php",
+		"/home/flashbag/kepsch/framework/web/widgets/pagers/CLinkPager.php",
+		"/home/flashbag/kepsch/protected/views/layouts/footer.php",
+		"/tmp/fz3temp-1/main.php",
+		"/home/flashbag/kepsch/protected/views/layouts/crud.php",
+		"/home/flashbag/kepsch/protected/views/layouts/main-tbs2.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/groups.php",
+		"/home/flashbag/kepsch/protected/views/layouts/header.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/header.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/css/custom.css",
+		"/home/flashbag/kepsch/bootstrap3/dist/form.php",
+		"/home/flashbag/kepsch/bootstrap/elements.html",
+		"/home/flashbag/kepsch/bootstrap3/dist/crud.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/modal.html",
+		"/home/flashbag/kepsch/bootstrap3/dist/form.html",
+		"/home/flashbag/kepsch/bootstrap3/dist/footer.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/css/sticky-footer.css",
+		"/home/flashbag/kepsch/bootstrap3/dist/index.php",
+		"/tmp/fz3temp-1/view_page.php",
+		"/tmp/fz3temp-1/create_pages.php",
+		"/tmp/fz3temp-1/script.js",
+		"/home/flashbag/freelance/sms/bootstrap/info.php",
+		"/home/flashbag/kepsch/bootstrap3/dist/css/bootstrap-theme.min.css",
+		"/home/flashbag/kepsch/bootstrap3/dist/js/bootstrap.js",
+		"/home/flashbag/kepsch/bootstrap3/dist/css/bootstrap.css",
+		"/home/flashbag/kepsch/bootstrap3/dist/css/bootstrap-theme.css",
+		"/home/flashbag/kepsch/bootstrap/index.html",
+		"/home/flashbag/kepsch/bootstrap/css/custom.css",
+		"/home/flashbag/kepsch/protected/modules/spec/views/spec/admin.php",
+		"/home/flashbag/bluegg",
+		"/home/flashbag/freelance/sms/bootstrap/add_member-local.php",
+		"/home/flashbag/actions",
+		"/home/flashbag/kepsch/bootstrap3/README.md",
+		"/home/flashbag/freelance/sms/bootstrap/add_member.php",
+		"/home/flashbag/freelance/sms/bootstrap/widget2.html",
+		"/home/flashbag/yandex",
+		"/home/flashbag/freelance/sms/bootstrap/code.php",
+		"/tmp/fz3temp-1/credentials.php",
+		"/home/flashbag/kepsch/protected/views/layouts/main-yii.php",
+		"/home/flashbag/kepsch/protected/models/User.php",
+		"/tmp/fz3temp-1/save_page.php",
+		"/tmp/fz3temp-1/info.php",
+		"/tmp/fz3temp-1/handle_ajax.php",
+		"/home/flashbag/kepsch/bootstrap/index-modal.html",
+		"/home/flashbag/freelance/sms/bootstrap/index.html",
+		"/home/flashbag/freelance/sms/sms24x7.php",
+		"/tmp/fz3temp-1/database.php",
+		"/tmp/fz3temp-1/header.php",
+		"/home/flashbag/kepsch/protected/models/LoginForm.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$info",
+			"$model",
+			"$lessons",
+			"$teachers",
+			"$auds",
+			"updated",
+			"[row]",
+			"ghf",
+			" schcol\"",
+			");\n",
+			"lesson",
+			"auds",
+			"lesson",
+			"/teacher",
+			"$model->name",
+			"'disabled'=>'disabled',",
+			"lesson",
+			"?>",
+			"lesson",
+			"view",
+			"spec",
+			"lessons",
+			"spec",
+			" - ",
+			"createU",
+			"$datetime->format('y')",
+			"spec",
+			"created",
+			"updated_by",
+			"col-lg-8",
+			"col-lg-2",
+			"col-lg-4",
+			"active",
+			"$data",
+			"‘",
+			"’",
+			"\"redeem",
+			"redeem",
+			"redee",
+			"value=\"В",
+			"value=\"",
+			"SmartR",
+			"имя и еме",
+			"active",
+			"</a></li>",
+			"<li class=\"list-group-item\"><a href=\"#\">",
+			"</ul>",
+			"<ul class=\"list-group\">",
+			"course",
+			"<li class=\"list-group-item\">",
+			"</ul>",
+			"<ul class=\"list-group\">",
+			"</a></li>",
+			"<a href=\"#\">",
+			"</li>",
+			"<li class=\"list-group-item\">",
+			".table-striped",
+			"tr",
+			"table",
+			"<div class=\"container\" style=\"display:none\">",
+			"navbar-inver",
+			"navbar-invers",
+			"navbar",
+			"'",
+			"`",
+			"\"paypal",
+			"text_align",
+			"text_al",
+			" \"button",
+			"\"button",
+			"'];\n",
+			"text_al",
+			"paypal",
+			"\"paypal",
+			"\"paypa",
+			"var text_al",
+			"print_r",
+			"paypal",
+			"\"left",
+			"left",
+			"amm",
+			"appear",
+			"left",
+			"центр",
+			"центп",
+			"Получа",
+			"PayPal",
+			"mdp_ae",
+			"\n",
+			"                        ",
+			"case \"pa",
+			"apper",
+			"=1",
+			"уста",
+			"Share",
+			"vk.com",
+			"icons",
+			"$_",
+			"\"vk",
+			"vk",
+			"appe",
+			"\"icons",
+			"TWI",
+			"icons",
+			"\"icons",
+			"\"share",
+			"share",
+			"mdp",
+			"\"one",
+			"appea",
+			"onetime",
+			"one",
+			"chec",
+			"name",
+			"onetime",
+			"mdp_ae_encN",
+			"mdp",
+			"<style",
+			"mdp",
+			"<style",
+			"case \"vk",
+			"page_conte",
+			"page_con",
+			"onetime",
+			"name=\"page",
+			"page_conte",
+			"nicEdi",
+			"page_content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$model",
+			"$data['lessons']",
+			"$data['teachers']",
+			"$data['auds']",
+			"modified",
+			"[rows]",
+			"col-lg-offset-5 col-md-offset-5 col-sm-offset-5 col-xs-offset-5 ",
+			"\"",
+			"aud",
+			"/teacher/teacher/admin",
+			"$model->surname.' '.$model->initials",
+			"",
+			"teacher",
+			"lesson",
+			"-",
+			"$year",
+			"group",
+			"updated",
+			"created_by",
+			"col-lg-10",
+			"col-lg-4",
+			"$model",
+			"'",
+			"value=\"\" placeholder=\"В",
+			"active teacher",
+			"</a>",
+			"<a href=\"#\" class=\"list-group-item\">",
+			"</div>",
+			"<div class=\"list-group\">",
+			"course-",
+			"",
+			"</div>",
+			"<div class=\"list-group\">",
+			"</a>",
+			"<a href=\"#\" class=\"list-group-item\">",
+			"</a></li>",
+			"<li class=\"list-group-item\"><a href=\"#\">",
+			"",
+			"'",
+			"",
+			"ECF0F1",
+			"\"]').next()); ",
+			"  				$('label[for=reg]').insertAfter($('label[for=\"",
+			"\"],",
+			"#vacancy_form label[for=\"",
+			"\"],",
+			"#partners_form label[for=\"",
+			"vacancy_",
+			"\"Это обязательное поле\",",
+			"partners_",
+			"courier_form",
+			"text",
+			"$this->_field",
+			"menu",
+			"#this_photo",
+			"data-block=",
+			"data-block"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "protected/config/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2066,
+								2066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1190.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "protected/config/params.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1565,
+								1565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "protected/modules/sch/controllers/SchController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2252,
+								2252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1122.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "protected/modules/sch/views/sch/history.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								928,
+								928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 73.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "protected/modules/sch/views/sch/manage.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7478,
+								7485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2516.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "protected/modules/sch/models/Sch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4178,
+								4178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2439.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "protected/modules/lesson/controllers/LessonController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4038,
+								4038
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2601.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "bootstrap3/dist/form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2837,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "protected/views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2551,
+								2551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 469.0,
+						"translation.y": 561.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "kepsch.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/kepsch/protected/views/layouts/main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

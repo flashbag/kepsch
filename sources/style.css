@@ -1,0 +1,276 @@
+/*
+ +-------------------------------------------------------------------+
+ |             F A V M O V I E . N E T    MAIN CSS FILE              |
+ |                                                                   |
+ | Design:      http://iordanoff.info                                |
+ | Developmnet: http://hristof.com                                   |
+ +-------------------------------------------------------------------+
+*/
+
+body { 
+	background: url(images/background.jpg) repeat-x #132533;
+	margin: 0px;
+	padding: 0px;
+	color: #FFF; 
+	font-size: 11px; 
+	font-family: Arial, Tahoma, Helvetica, sans-serif;  }
+	
+a { 
+	color: #ddd;
+	outline: none;
+	text-decoration: none; }
+	
+a:hover {
+	color: #FFAA33; }
+	
+img { border: none; }
+
+.wrap {
+	background: url(images/bg_light.jpg) no-repeat top #D3D3D3;
+	height: 580px;
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px; }
+	
+.langbox {
+	width: 65px;
+	height: 11px;
+	float: right;
+	margin-top: 20px;
+	margin-right: 184px;
+	display: block; }
+	
+.flag_en {
+	background: url(images/flag_en.gif) bottom no-repeat;
+	width: 16px;
+	height: 11px;
+	display:  block; 
+	float: left;
+	margin-right: 15px; }
+	
+.flag_en:hover {
+	background: url(images/flag_en.gif) top no-repeat; }		
+	
+.flag_bg {
+	background: url(images/flag_bg.gif) bottom no-repeat;
+	width: 16px;
+	height: 11px;
+	display:  block; 
+	float: left; }
+	
+.flag_bg:hover {
+	background: url(images/flag_bg.gif) top no-repeat; }
+
+.logo {
+	margin-top: 170px;
+	margin-left: 180px; }
+	
+.coming {
+	margin-left: 250px;
+	margin-top: 70px; }
+	
+.footer {
+	width: 100%;
+	margin-top: 0px;
+	height: auto;
+	background: url(images/footer_gr.jpg) repeat-x #132533;
+	padding-top: 50px;
+	margin-bottom: 0px; }
+	
+.footer_wrap {
+	height: auto;
+	width: 490px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	color: #47728F;  }
+
+.newsletter_box {
+	width: 480px;
+	float: left;
+	height: 50px; 
+	margin-top: 5px;
+	margin-left: 15px; }
+
+.rounded_l {
+	background: url(images/rounded.jpg) no-repeat;
+	width: 5px;
+	height: 33px; 
+	display: block;
+	float: left;
+	margin-left: 1px; }
+			
+.mailbox {
+	background: url(images/input_bg.jpg) repeat-x;
+	width: 331px;
+	height: 19px;
+	float: left;
+	border: none;
+	padding: 7px;
+	color: #666;
+	font-size: 15px;
+	font-weight: bold; }
+	
+.newsletter {
+	background: url(images/newsletter.jpg) no-repeat;
+	width: 53px;
+	height: 35px;
+	border: none;
+	display: block;
+	float: left;
+	margin-right: 20px; }
+	
+.submit {
+	background: url(images/newsletter_submit_button.jpg) no-repeat;
+	width: 40px;
+	height: 33px;
+	display: block;
+	float: left;
+	border: none;
+	margin-left: 0px; }
+	
+.info {
+	background: #132533;
+	width: 99.99%;
+	height: 23px;
+	padding-top: 10px;
+	float: left;
+	padding-left:0px;
+	margin-top: 0px;  }
+	
+.left {
+	float: left;
+	margin-left: 14px; }
+	
+.right {
+	float: right; }
+	
+.right a {
+	margin-right: 10px;
+	float: left;
+	color: #47728F; }
+	
+.right a:hover {
+	color: #FFAA33; }
+	
+.clear {
+	clear: both; }
+
+.mb {
+	width: 395px;
+	height: auto;
+	float: left; }
+		
+.suc {
+	background: #EFD586;
+	border: 1px solid #AF8B20;
+	width: 330px;
+	height: 15px;
+	margin-right: 28px;
+	padding: 7px;
+	float: left; 
+	color: #222;
+	font-size: 12px;
+	font-weight: bold; }
+	
+.suc_close {
+	background: url(images/suc_close.jpg) bottom no-repeat;
+	width: 15px;
+	height: 15px;
+	display: block;
+	float: right; }
+	
+.suc_close:hover {
+	background: url(images/suc_close.jpg) top no-repeat; }
+	
+.err {
+	background: #DF7D7D;
+	border: 1px solid #DF3737;
+	width: 330px;
+	height: 15px;
+	margin-right: 28px;
+	padding: 7px;
+	float: left; 
+	color: #222;
+	font-size: 12px;
+	font-weight: bold; }
+	
+.err_close {
+	background: url(images/err_close.jpg) bottom no-repeat;
+	width: 15px;
+	height: 15px;
+	display: block;
+	float: right; }
+	
+.err_close:hover {
+	background: url(images/err_close.jpg) top no-repeat; }
+
+.hid {
+	width: 395px; 
+	height: 33px;}
+
+
+#PopUp {
+	background: url(images/contact-bg.jpg) repeat-x;
+	width: 250px;
+	height: auto; 
+	padding: 10px;
+	position: absolute; 
+	left: 38%; 
+	top:50%;
+	border: solid #bbb 2px;
+	visibility:hidden;
+	color: #333; }
+	
+#PopUp a {
+	color: #2c6c99; }
+	
+#PopUp a:hover{
+	color:#FFAA33; }
+	
+.name {
+	color: #2c6c99;
+	font-size: 13px;
+	letter-spacing: 0.1em;
+	font-weight: bold; }
+	
+.name:hover {
+	color:#FFAA33; }
+
+.popup_text {
+	width: 100%;
+	height: auto;
+	float: left; }
+		
+.c_mail {
+	color: #FFAA33;
+	float:left; 
+	width: 100%; 
+	margin-top: 10px; 
+	margin-bottom: 10px; }
+	
+.contact_close {
+	background: url(images/contact_close.jpg) bottom no-repeat;
+	width: 15px;
+	height: 15px;
+	display: block;
+	float: right; }
+	
+.contact_close:hover {
+	background: url(images/contact_close.jpg) top no-repeat; }
+	
+.contact_us_img {
+	background: url(images/contact-us.jpg) no-repeat;
+	width: 146px;
+	height: 19px;
+	display: block;
+	float: left; }
+	
+.rss_feed {
+	background: url(images/rss.gif) no-repeat;
+	width: 10px;
+	height: 10px;
+	display: block;
+	float: left;
+	margin-top: 3px; }
