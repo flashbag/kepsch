@@ -1,0 +1,39 @@
+@import url("style.css");
+
+h1 a, h3 a.week, a:hover, #table tr td a:hover, #footer a, #table tr th
+{ color: #a0a;}
+
+
+h3 a, h3 a.week	{ border-color: #a0a; }
+
+h3 a 			{ background: #fbf; }
+h3 a.week		{ background: #b2b; }
+h3 a:hover		{ border-color: #b2b; color:#525; background: #fef; }
+
+
+.home, a 		{ color: #525; }
+
+a.dev			{ color: #707; }
+a.ready			{ color: #000; background-color: #fef; }
+
+#main 			{ background: #fff; }
+#header, .bb    { border-color: #a0a; }
+#footer			{ border-color: #a0a; }
+
+#days .day 		{ background: #faf; }
+#days tr td 	{ background: #f9e0f9; }
+
+.select tr 		{ background: #eee; } 
+
+.etitle 		{ color: #525; }
+
+select, input	{ background-color: #fef; }
+select:focus, input:focus 	{ background-color: #fff; }
+
+#table tr td, .results tr td { background: #fbf0fb; }
+#table tr th, .results tr th { background: #fbe6fb; }
+
+.edit  tr td 		 	{ background: #fff; }
+
+.column			{ border-color: #d8d; }
+.results .info 	{ border-color: #000; }

@@ -1,0 +1,150 @@
+#content, #days, #footer, .nothing, .home, #table, #panel, .stats, .results, .form, .edit, .select, .theme 
+{ margin-left: auto; margin-right: auto;  }
+
+.clear	 		{ clear: both; }
+label  			{ white-space: nowrap; }
+
+.theme 			{ border-collapse:  collapse;  width: 100%;}
+.theme td 		{ margin-left: 1%;  margin-right: 1%; }
+
+.active 						{ opacity: 0.8; border: 2px solid #000; }
+.opac 							{ opacity: 0.7; }
+.active:hover, .opac:hover		{ opacity: 1; }
+
+
+.download 			{ font-size: 90%; width: 90%; border-collapse: collapse; }
+.download .title	{ text-align: left; padding: 1%;} 
+.download .descr 	{ font-size: 70%; text-align: left; padding: 1%; text-indent: 1.5em; vertical-align: top; }
+.download .link		{ font-size: 60%; padding: 1%; }
+.download tr td  	{ vertical-align: top; border: 0px solid #000;}
+
+span.load { float: right; }
+span.btns { float: left; }
+
+.center 		{ text-align: center; margin-right: auto; margin-left: auto; }
+
+a 				{ text-decoration: none; }
+a:hover 		{ text-decoration: underline; }
+
+body			{ text-align: center; font-family: Helvetica; font-size: 120%; }
+#main 			{ text-align: left; width: 100%; min-width: 800px; max-width: 1500px; }
+
+#header			{ border-bottom: 3px solid; }
+#header h1		{ font-weight: normal; display: inline-block; margin-left: 10%; padding-top: 1%;  }
+#header h3		{ font-weight: normal; display: inline-block; margin-left: 10px; }
+
+#right 			{ margin-right: 10%; margin-left: 50%; display: inline;   }
+
+h3 a 			{ border: 2px double; display: block; width: 28px; height: 28px; border-radius: 25px; font-size:16px; line-height:30px; text-align:center;text-decoration:none; }
+h3 a:hover 		{ text-decoration: none; }
+
+a.ready			{ font-weight: bold; }
+
+#footer			{ border-top: 3px solid; margin-top: 3%; width: 90%; }
+
+#nav			{ float: left; width: 100%; margin: 1% 1% 1% 1%; text-transform: lowercase; font-size: 80%; }
+#nav span		{ margin:2% 2% 6% 5%; }
+
+
+#panel			{ padding-top: 1%; padding-bottom: 1%; text-transform: lowercase; text-align: center; font-size: 120%;  }
+#panel span a	{ margin-left: 2.7%; margin-right: 2.7%; }
+
+.this 			{ text-decoration: underline; font-weight: bold; }
+	
+#content 		{ display: block; text-align: center; width: 100%; font-size: 150%; float: left; } 
+
+.column					{ border-left: 2px double; }
+.column a 				{ text-decoration: none; }
+.column a:hover 		{ text-decoration: underline; }
+
+/* tables days, groups, teachers */
+
+#days, #table	{ width: 90%; }
+#days	tr td 	{ vertical-align: top; padding-bottom: 2%; width: 20%;}
+
+#table tr td 	{ text-align: center; }
+#table tr td a	{ text-decoration: none; }
+#table tr th 	{ font-weight: normal;  }
+#table tr td a:hover	{ text-decoration: underline; font-weight: bold; }
+
+
+.primary span 	{ font-weight: bold; }
+
+.column			{ display : table-cell; font-size: 70%; width: 23%; padding-left: 1%;}
+.column div		{ text-align : left; }
+.column div a 	{ text-decoration : none; white-space: nowrap;} 
+
+
+div.home 		{ font-size: 120%; width: 80%; }
+
+.select			{ text-align: center; font-size: 100%; width: 60%; }
+.select tr 	td 	{ white-space: nowrap; margin: 20%; padding: 2%; } 
+
+/* viewing single teacher or group record */
+
+.day  			{ font-size : 120%; margin: 5%; text-align : center; text-decoration : underline; }
+
+.primary 		{ font-size : 90%; padding-left : 2%; text-align : left; width : 100%; }
+.cabinet 		{ font-size : 70%; font-style : italic; margin-right : 2%; text-align : right; }
+.secondary 		{ font-size : 80%; margin-left : 12%; text-align : left; width : 100%; }
+
+.nothing 		{ margin-top: 5%;  text-align: center; font-size: 80%; width: 60%; }
+
+
+#footer a 		{ margin-left: 10px; margin-right: 10px; font-size: 80%; }
+
+#copyright 		{ font-size: 70%; padding-top: 0.5%; margin: 0;}
+#copyright a 	{ margin: 0; }
+
+
+.stats 			{ width: 70%;  font-size: 110%; padding: 2%; }
+.stats td 		{ white-space: nowrap; }
+
+.l 				{ text-align: left; }
+.r 				{ text-align: right; }
+
+td.l 			{ text-align: left;width: 40%; font-weight: bold; }
+td.r 			{ text-align: right; width: 60%; }
+td.bb 			{ text-align: center; border-bottom: 2px solid; padding-bottom: 2%; }
+
+.title 			{ font-size: 110%; text-align: center;  }
+
+.panel div 		{ display: inline; float: left; width: 20%; }
+
+
+
+.results	 				{ width: 80%; padding-top: 2%; }
+.info 				{ text-align: center; font-size: 130%; border: 1px solid; padding: 2%; }
+.results td, .results th 	{ text-align: left; }
+.results td 				{ vertical-align: top; }
+
+select			{ -webkit-appearance: none; }
+input			{ border: 1px solid; }
+
+.form { font-size: 110%; width: 50%; }
+.form input { font-size: 100%; }
+.form select { font-size: 80%; }
+.form textarea { font-size: 80%; }
+
+.form td { padding: 1%; vertical-align: top;}
+.form td.lelt { text-align: left; }
+.form td.right { text-align: right; }
+
+
+.edit 				{ width: 80%; font-size: 90%; }
+.edit .r 			{ width: 5.5em; }
+
+.edit .ok, .add 	{ text-align: center; }
+.edit .add 			{ font-size: 70%; white-space: nowrap; width: 10px; }
+
+
+.edit td 			{ width: auto; }
+.edit td 			{ padding-left: 0.5%; padding-right: 0.5%; }
+.edit span 			{ font-size: 55%; font-weight: normal; }
+.edit input 		{ font-size: 100%; }
+.edit select 		{ width: 100%; font-size: 70%; }
+
+
+.img { opacity: 1; }
+.img:hover { opacity: 0.8; }
+.img img { float: left; margin: 20px; }
